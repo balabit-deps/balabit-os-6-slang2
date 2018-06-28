@@ -1,3 +1,10 @@
+slang2 (2.3.0-2ubuntu1.1) xenial; urgency=medium
+
+  * d/p/init-crash.patch: Fix crash on multiple initialisation when TERMCAP
+    set (LP: #1537528)
+
+ -- Christian Ehrhardt <christian.ehrhardt@canonical.com>  Thu, 28 Jun 2018 11:06:04 +0200
+
 slang2 (2.3.0-2ubuntu1) vivid; urgency=low
 
   * Merge from Debian unstable.  Remaining changes:
